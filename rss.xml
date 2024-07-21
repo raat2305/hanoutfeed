@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>أخبار المحل</title>
+    <link>https://www.mystore.com</link>
+    <description>آخر العروض والتخفيضات</description>
+    <item>
+      <title>تخفيض 20% على جميع المنتجات</title>
+      <link>https://www.mystore.com/discount</link>
+      <description>استفد الآن بتخفيض 20% على جميع المنتجات لمدة محدودة!</description>
+      <pubDate>Mon, 20 Jul 2024 12:00:00 +0000</pubDate>
+      <guid>https://www.mystore.com/discount</guid>
+    </item>
+    <item>
+      <title>عرض خاص على الأجهزة الإلكترونية</title>
+      <link>https://www.mystore.com/electronics</link>
+      <description>احصل على خصومات كبيرة على جميع الأجهزة الإلكترونية.</description>
+      <pubDate>Tue, 21 Jul 2024 14:00:00 +0000</pubDate>
+      <guid>https://www.mystore.com/electronics</guid>
+    </item>
+    <item>
+      <title>تخفيضات الصيف</title>
+      <link>https://www.mystore.com/summer-sale</link>
+      <description>عروض وتخفيضات الصيف مستمرة! لا تفوت الفرصة.</description>
+      <pubDate>Wed, 22 Jul 2024 16:00:00 +0000</pubDate>
+      <guid>https://www.mystore.com/summer-sale</guid>
+    </item>
+  </channel>
+</rss>
